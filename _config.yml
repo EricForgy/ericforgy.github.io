@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Title"
+title                    : "Dr. Eric Forgy, CAIA"
 title_separator          : "-"
 name                     : &name "Dr. Eric Forgy, CAIA"
 description              : &description "personal description"
